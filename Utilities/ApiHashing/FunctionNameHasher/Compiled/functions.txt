@@ -1,0 +1,5 @@
+WebSocketCreateClientHandle
+WebSocketBeginClientHandshake
+WebSocketEndClientHandshake
+WebSocketSend
+WebSocketDeleteHandle
