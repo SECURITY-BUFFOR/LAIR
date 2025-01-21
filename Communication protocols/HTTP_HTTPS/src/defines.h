@@ -1,5 +1,5 @@
-#ifndef BASE64_DEFINES_H
-#define BASE64_DEFINES_H
+#ifndef HTTP_TRANSPORT_DEFINES_H
+#define HTTP_TRANSPORT_DEFINES_H
 
 #include <windows.h>
 
@@ -76,4 +76,4 @@ extern _WINHTTPCRACKURL _WinHttpCrackUrl;
 // KERNEL32
 extern _MULTIBYTETOWIDECHAR _MultiByteToWideChar;
 
-#endif //BASE64_DEFINES_H
+#endif //HTTP_TRANSPORT_DEFINES_H
